@@ -1,0 +1,2 @@
+1  提领指向不完全类型的指针 (由于动态库中一些头文件未导入该文件中)
+   参考： https://blog.csdn.net/c_spark/article/details/3765969
